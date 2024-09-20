@@ -56,28 +56,27 @@ const WelcomeScreen = () => {
       </div>
 
       {/* Main content */}
-      <div className="flex-[3] bg-black p-8 flex items-center justify-center">
-        <div className="max-w-3xl w-full flex">
-          <div className="flex-1 pr-8">
-            <h1 className="text-5xl font-bold mb-4 text-white">
-              Welcome to our form
-            </h1>
-            <p className="text-xl mb-6 text-white">
-              This is a description of the form
-            </p>
-            <button className="bg-white text-black px-6 py-2 rounded-full text-sm font-bold">
-              Start
-            </button>
-          </div>
-          <div className="w-64 h-64 bg-green-500 rounded-lg overflow-hidden">
-            <img
-              src="/api/placeholder/256/256"
-              alt=""
-              className="w-full h-full object-cover"
-            />
-          </div>
-        </div>
-      </div>
+      
+      <div className="flex-[3] bg-black p-8 flex items-center justify-center rounded-lg border-2 border-white">
+  <div className="max-w-3xl w-full flex">
+    <div className="flex-1 pr-8">
+      <h1 className="text-5xl font-bold mb-4 text-white">Welcome to our form</h1>
+      <p className="text-xl mb-6 text-white">This is a description of the form</p>
+      <button className="bg-white text-black px-6 py-2 rounded-full text-sm font-bold">
+        Start
+      </button>
+    </div>
+    <div className="w-64 h-64 bg-green-500 rounded-lg overflow-hidden">
+      <img
+        src="/api/placeholder/256/256"
+        alt=""
+        className="w-full h-full object-cover"
+      />
+    </div>
+  </div>
+</div>
+
+
 
       
       {/* Footer */}
