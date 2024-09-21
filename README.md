@@ -1,8 +1,13 @@
-# React + Vite
+Subject: Apology for Incomplete Project Submission
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dear Sir/Madom,
 
-Currently, two official plugins are available:
+I hope this message finds you well. I sincerely apologize for not completing the website project as requested. Due to exams at university, I was unable to finalize the project and only managed to develop the front end of the first page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I saw your email later than I had hoped. I have attached a GitHub link to the current progress, and I plan to continue modifying the site in the future.
+
+Thank you for your understanding.
+
+Best regards,
+JADD Lakdineepa
+0712012525
