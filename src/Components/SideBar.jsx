@@ -164,7 +164,7 @@ const WelcomeScreen = () => {
     <div className="flex-1 pr-8">
       <h1 className="text-5xl font-bold mb-4 text-white">Welcome to our form</h1>
       <p className="text-xl mb-6 text-white">This is a description of the form</p>
-      <button className="bg-white text-black px-6 py-2 rounded-full text-sm font-bold">
+      <button className="bg-white text-black px-8 py-3 rounded-full text-sm">
         Start
       </button>
     </div>
